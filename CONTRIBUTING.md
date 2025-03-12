@@ -1,3 +1,4 @@
 # CONTRIBUTING.md
 
 Notes and usage details for gbase.
+- add a note about the defaults
