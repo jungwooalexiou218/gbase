@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "GBase — Recursive Self-Improvement Agent Framework. Memory, evolution, quality gates, identity system, and 40+ auto-registered tools."
 requires-python = ">=3.10"
 # clarify the control flow
+# keep defaults in sync with the manifest
